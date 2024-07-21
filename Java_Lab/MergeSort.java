@@ -69,3 +69,5 @@ public class MergeSort {
         }
     }
 }
+//Output
+//After Merge Sort array: [11, 12, 22, 25, 34, 64, 90]
