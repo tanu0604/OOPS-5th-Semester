@@ -16,3 +16,7 @@ public class OddEven {
 
     }
 }
+
+//Output
+//Enter the number: 9
+//The number is an odd number.
