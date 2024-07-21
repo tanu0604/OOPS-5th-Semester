@@ -11,3 +11,7 @@ public class Add {
         System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum);
     }
 }
+//Output
+//Enter the first number: 10
+//Enter the second number:20
+//The Sum of 10 + 20 is 30
