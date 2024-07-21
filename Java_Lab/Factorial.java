@@ -16,8 +16,7 @@ public class Factorial {
         return num * Fact(num - 1);
     }
 }
-//cd OneDrive
-//cd Desktop
-//cd Java_Lab
-//javac Factorial.java
-//java Factorial.java
+//Output
+
+//Enter the number: 4
+//The factorial of the given number is:  24
