@@ -39,3 +39,6 @@ public class QuickSort {
         return i + 1;
     }
 }
+
+//Output
+//After Quick sort array: [11, 12, 22, 25, 34, 64, 90]
