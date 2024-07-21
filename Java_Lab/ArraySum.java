@@ -27,3 +27,7 @@ public class ArraySum {
         System.out.println("The sum of all elements in the array is: " + sum);
     }
 }
+//Ouput
+//Enter the number of elements in the array: 5
+//Enter the elements of the array: 5 4 1 6 8
+//The sum of all elements in the array is: 24
