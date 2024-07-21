@@ -15,3 +15,5 @@ public class RemoveDuplicates {
         System.out.println("Array without duplicates: " + Arrays.toString(uniqueArray));
     }
 }
+//Output
+//Array without duplicates: [10, 20, 30]
