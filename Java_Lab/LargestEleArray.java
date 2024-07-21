@@ -12,3 +12,5 @@ public class LargestEleArray {
         System.out.println("Largest element: " + max);
     }
 }
+//Output
+//Largest element: 50
