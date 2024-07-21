@@ -12,3 +12,6 @@ public class SmallestElement {
         System.out.println("Smallest element: " + min);
     }
 }
+
+//Output
+//Smallest element: 10
