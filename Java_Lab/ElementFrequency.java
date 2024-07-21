@@ -15,3 +15,9 @@ public class ElementFrequency {
         }
     }
 }
+
+//Output
+
+// Element: 20, Frequency: 2
+// Element: 10, Frequency: 2
+// Element: 30, Frequency: 3
