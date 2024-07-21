@@ -12,3 +12,5 @@ public class ReverseArray {
         System.out.println("Reversed array: " + Arrays.toString(reversed));
     }
 }
+//Output
+//Reversed array: [50, 40, 30, 20, 10]
