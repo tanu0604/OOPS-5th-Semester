@@ -30,3 +30,7 @@ public class BinarySearch {
         return -1;
     }
 }
+
+//Output
+//Element found at index: 2
+
