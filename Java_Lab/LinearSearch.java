@@ -20,4 +20,5 @@ public class LinearSearch {
         return -1;
     }
 }
-
+//Output
+//Element found at index: 2
