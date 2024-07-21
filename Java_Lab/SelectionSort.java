@@ -26,3 +26,5 @@ public class SelectionSort {
         }
     }
 }
+//Output
+//After Selection Sort array: [5, 10, 12, 33, 52]
