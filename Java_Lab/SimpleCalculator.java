@@ -58,7 +58,10 @@ public class SimpleCalculator {
         if (validOperation) {
             System.out.println("The result is: " + result);
         }
-
-        scanner.close();
     }
 }
+//Output
+// Enter the first number: 34
+// Enter the second number: 56
+// Enter an operator (+, -, *, /, %): *
+// The result is: 1904.0
