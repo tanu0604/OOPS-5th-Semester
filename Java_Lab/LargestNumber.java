@@ -19,3 +19,9 @@ public class LargestNumber {
         }
     }
 }
+
+//Output
+//Enter the first number:  3
+// Enter the second number: 5
+// Enter the third number: 9
+    // The largest number is 9
