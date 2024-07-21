@@ -43,3 +43,6 @@ public class DayOfWeek {
         scanner.close();
     }
 }
+//Output
+// Enter a number (1-7): 4
+// Thursday
